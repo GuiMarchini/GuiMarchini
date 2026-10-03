@@ -1,4 +1,4 @@
-# Hi, I'm Guilherme 👋
+# Hi, I'm Guilherme Marchini👋
 
 I'm a Brazilian software development student interested in **Computer Science, software engineering, backend development, and building software that solves real-world problems**.
 

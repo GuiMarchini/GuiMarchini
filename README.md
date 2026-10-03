@@ -7,5 +7,7 @@ I work with technologies such as **Python, Dart, Flutter, Kotlin, JavaScript, SQ
 Currently, I'm focused on improving my software engineering skills and building meaningful projects.
 
 📍 Belo Horizonte, Brazil
+
 💻 Software Development | Computer Science
+
 🚀 Always learning, building, and improving.
